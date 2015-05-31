@@ -3,6 +3,7 @@
 This repository contains the PSD source files of the novelty animated gifs I make for the **Tiny Vim Tips** newsletter.
 
 ## Example
+![Animated Git example of a Vim Lesson](run-bash-command.gif)
 
 ## How does gifs are made
 * Open an specifc iTerm profile I created of the right terminal size and font
